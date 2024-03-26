@@ -1,0 +1,388 @@
+C:\Users\admin\Desktop\WHMP\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\admin\Desktop\WHMP\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\admin\Desktop\WHMP\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\admin\Desktop\WHMP\WindowsFormsApplication1\obj\Debug\WHMP.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\WHMP\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\admin\Desktop\WHMP\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form10.resources
+C:\Users\admin\Desktop\WHMP\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\admin\Desktop\WHMP\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\admin\Desktop\WHMP\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\admin\Desktop\WHMP\WindowsFormsApplication1\obj\Debug\WHMP.Form0.resources
+C:\Users\admin\Desktop\WHMP\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\admin\Desktop\WHMP\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+C:\Users\admin\Desktop\WHMP\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form7.resources
+C:\Users\admin\Desktop\WHMP\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form8.resources
+C:\Users\admin\Desktop\WHMP\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form9.resources
+C:\Users\admin\Desktop\WHMP\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\admin\Desktop\WHMP\WindowsFormsApplication1\obj\Debug\WHMP.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\WHMP\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\admin\Desktop\WHMP\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Awara\Desktop\없어도 추가 가능\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Awara\Desktop\없어도 추가 가능\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Awara\Desktop\없어도 추가 가능\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Awara\Desktop\없어도 추가 가능\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Awara\Desktop\없어도 추가 가능\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Awara\Desktop\없어도 추가 가능\WindowsFormsApplication1\obj\Debug\WHMP.csprojResolveAssemblyReference.cache
+C:\Users\Awara\Desktop\없어도 추가 가능\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Awara\Desktop\없어도 추가 가능\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form10.resources
+C:\Users\Awara\Desktop\없어도 추가 가능\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Awara\Desktop\없어도 추가 가능\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Awara\Desktop\없어도 추가 가능\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Awara\Desktop\없어도 추가 가능\WindowsFormsApplication1\obj\Debug\WHMP.Form0.resources
+C:\Users\Awara\Desktop\없어도 추가 가능\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\Awara\Desktop\없어도 추가 가능\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+C:\Users\Awara\Desktop\없어도 추가 가능\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form7.resources
+C:\Users\Awara\Desktop\없어도 추가 가능\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form8.resources
+C:\Users\Awara\Desktop\없어도 추가 가능\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form9.resources
+C:\Users\Awara\Desktop\없어도 추가 가능\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Awara\Desktop\없어도 추가 가능\WindowsFormsApplication1\obj\Debug\WHMP.csproj.GenerateResource.Cache
+C:\Users\Limelee\Documents\카카오톡 받은 파일\리스트뷰오류\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Limelee\Documents\카카오톡 받은 파일\리스트뷰오류\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Limelee\Documents\카카오톡 받은 파일\리스트뷰오류\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Higgs\Desktop\리스트뷰오류+form8수정\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Higgs\Desktop\리스트뷰오류+form8수정\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Higgs\Desktop\리스트뷰오류+form8수정\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Higgs\Desktop\리스트뷰오류+form8수정\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Higgs\Desktop\리스트뷰오류+form8수정\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Higgs\Desktop\리스트뷰오류+form8수정\WindowsFormsApplication1\obj\Debug\WHMP.csprojResolveAssemblyReference.cache
+C:\Users\Higgs\Desktop\리스트뷰오류+form8수정\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Higgs\Desktop\리스트뷰오류+form8수정\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form10.resources
+C:\Users\Higgs\Desktop\리스트뷰오류+form8수정\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\Higgs\Desktop\리스트뷰오류+form8수정\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\Higgs\Desktop\리스트뷰오류+form8수정\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Higgs\Desktop\리스트뷰오류+form8수정\WindowsFormsApplication1\obj\Debug\WHMP.Form0.resources
+C:\Users\Higgs\Desktop\리스트뷰오류+form8수정\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\Higgs\Desktop\리스트뷰오류+form8수정\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+C:\Users\Higgs\Desktop\리스트뷰오류+form8수정\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form7.resources
+C:\Users\Higgs\Desktop\리스트뷰오류+form8수정\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form8.resources
+C:\Users\Higgs\Desktop\리스트뷰오류+form8수정\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form9.resources
+C:\Users\Higgs\Desktop\리스트뷰오류+form8수정\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Higgs\Desktop\리스트뷰오류+form8수정\WindowsFormsApplication1\obj\Debug\WHMP.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\리스트뷰오류+form8수정\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\admin\Desktop\리스트뷰오류+form8수정\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\admin\Desktop\리스트뷰오류+form8수정\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\admin\Desktop\리스트뷰오류+form8수정\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\admin\Desktop\리스트뷰오류+form8수정\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\admin\Desktop\리스트뷰오류+form8수정\WindowsFormsApplication1\obj\Debug\WHMP.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\리스트뷰오류+form8수정\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\admin\Desktop\리스트뷰오류+form8수정\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form10.resources
+C:\Users\admin\Desktop\리스트뷰오류+form8수정\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
+C:\Users\admin\Desktop\리스트뷰오류+form8수정\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form3.resources
+C:\Users\admin\Desktop\리스트뷰오류+form8수정\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\admin\Desktop\리스트뷰오류+form8수정\WindowsFormsApplication1\obj\Debug\WHMP.Form0.resources
+C:\Users\admin\Desktop\리스트뷰오류+form8수정\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form5.resources
+C:\Users\admin\Desktop\리스트뷰오류+form8수정\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form6.resources
+C:\Users\admin\Desktop\리스트뷰오류+form8수정\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form7.resources
+C:\Users\admin\Desktop\리스트뷰오류+form8수정\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form8.resources
+C:\Users\admin\Desktop\리스트뷰오류+form8수정\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form9.resources
+C:\Users\admin\Desktop\리스트뷰오류+form8수정\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\admin\Desktop\리스트뷰오류+form8수정\WindowsFormsApplication1\obj\Debug\WHMP.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\수정본\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\admin\Desktop\수정본\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\admin\Desktop\수정본\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\admin\Desktop\수정본\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\admin\Desktop\수정본\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\admin\Desktop\수정본\WindowsFormsApplication1\obj\Debug\WHMP.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\수정본\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\admin\Desktop\수정본\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\admin\Desktop\수정본\WindowsFormsApplication1\obj\Debug\WHMP.Form0.resources
+C:\Users\admin\Desktop\수정본\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\admin\Desktop\수정본\WindowsFormsApplication1\obj\Debug\WHMP.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\수정본\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Customer_Remove.resources
+C:\Users\admin\Desktop\수정본\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Product_Add.resources
+C:\Users\admin\Desktop\수정본\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Person_Add.resources
+C:\Users\admin\Desktop\수정본\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Person_search.resources
+C:\Users\admin\Desktop\수정본\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Customer_Add.resources
+C:\Users\admin\Desktop\수정본\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Customer_search.resources
+C:\Users\Higgs\Desktop\수정본 (2)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Higgs\Desktop\수정본 (2)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Higgs\Desktop\수정본 (2)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Higgs\Desktop\수정본 (2)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Higgs\Desktop\수정본 (2)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Higgs\Desktop\수정본 (2)\WindowsFormsApplication1\obj\Debug\WHMP.csprojResolveAssemblyReference.cache
+C:\Users\Higgs\Desktop\수정본 (2)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Higgs\Desktop\수정본 (2)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Customer_Remove.resources
+C:\Users\Higgs\Desktop\수정본 (2)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Product_Add.resources
+C:\Users\Higgs\Desktop\수정본 (2)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Person_Add.resources
+C:\Users\Higgs\Desktop\수정본 (2)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Higgs\Desktop\수정본 (2)\WindowsFormsApplication1\obj\Debug\WHMP.Form0.resources
+C:\Users\Higgs\Desktop\수정본 (2)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Person_search.resources
+C:\Users\Higgs\Desktop\수정본 (2)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Customer_Add.resources
+C:\Users\Higgs\Desktop\수정본 (2)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Customer_search.resources
+C:\Users\Higgs\Desktop\수정본 (2)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Higgs\Desktop\수정본 (2)\WindowsFormsApplication1\obj\Debug\WHMP.csproj.GenerateResource.Cache
+C:\Users\Limelee\Documents\카카오톡 받은 파일\수정본 (2)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Limelee\Documents\카카오톡 받은 파일\수정본 (2)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Limelee\Documents\카카오톡 받은 파일\수정본 (2)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Limelee\Documents\카카오톡 받은 파일\수정본 (2)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Limelee\Documents\카카오톡 받은 파일\수정본 (2)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Limelee\Documents\카카오톡 받은 파일\수정본 (2)\WindowsFormsApplication1\obj\Debug\WHMP.csprojResolveAssemblyReference.cache
+C:\Users\Limelee\Documents\카카오톡 받은 파일\수정본 (2)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Limelee\Documents\카카오톡 받은 파일\수정본 (2)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Customer_Remove.resources
+C:\Users\Limelee\Documents\카카오톡 받은 파일\수정본 (2)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Product_Add.resources
+C:\Users\Limelee\Documents\카카오톡 받은 파일\수정본 (2)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Person_Add.resources
+C:\Users\Limelee\Documents\카카오톡 받은 파일\수정본 (2)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Limelee\Documents\카카오톡 받은 파일\수정본 (2)\WindowsFormsApplication1\obj\Debug\WHMP.Form0.resources
+C:\Users\Limelee\Documents\카카오톡 받은 파일\수정본 (2)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Person_search.resources
+C:\Users\Limelee\Documents\카카오톡 받은 파일\수정본 (2)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Customer_Add.resources
+C:\Users\Limelee\Documents\카카오톡 받은 파일\수정본 (2)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Customer_search.resources
+C:\Users\Limelee\Documents\카카오톡 받은 파일\수정본 (2)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Limelee\Documents\카카오톡 받은 파일\수정본 (2)\WindowsFormsApplication1\obj\Debug\WHMP.csproj.GenerateResource.Cache
+C:\Users\Higgs\Desktop\재무관리\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Higgs\Desktop\재무관리\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Higgs\Desktop\재무관리\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Higgs\Desktop\재무관리\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Higgs\Desktop\재무관리\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Higgs\Desktop\재무관리\WindowsFormsApplication1\obj\Debug\WHMP.csprojResolveAssemblyReference.cache
+C:\Users\Higgs\Desktop\재무관리\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Higgs\Desktop\재무관리\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Customer_Remove.resources
+C:\Users\Higgs\Desktop\재무관리\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Product_Add.resources
+C:\Users\Higgs\Desktop\재무관리\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Person_Add.resources
+C:\Users\Higgs\Desktop\재무관리\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Higgs\Desktop\재무관리\WindowsFormsApplication1\obj\Debug\WHMP.Form0.resources
+C:\Users\Higgs\Desktop\재무관리\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Person_search.resources
+C:\Users\Higgs\Desktop\재무관리\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Customer_Add.resources
+C:\Users\Higgs\Desktop\재무관리\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Customer_search.resources
+C:\Users\Higgs\Desktop\재무관리\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Higgs\Desktop\재무관리\WindowsFormsApplication1\obj\Debug\WHMP.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\자구\재무관리_수정1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\admin\Desktop\자구\재무관리_수정1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\admin\Desktop\자구\재무관리_수정1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\admin\Desktop\자구\재무관리_수정1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\admin\Desktop\자구\재무관리_수정1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\admin\Desktop\자구\재무관리_수정1\WindowsFormsApplication1\obj\Debug\WHMP.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\자구\재무관리_수정1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\admin\Desktop\자구\재무관리_수정1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Customer_Remove.resources
+C:\Users\admin\Desktop\자구\재무관리_수정1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Product_Add.resources
+C:\Users\admin\Desktop\자구\재무관리_수정1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Person_Add.resources
+C:\Users\admin\Desktop\자구\재무관리_수정1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\admin\Desktop\자구\재무관리_수정1\WindowsFormsApplication1\obj\Debug\WHMP.Form0.resources
+C:\Users\admin\Desktop\자구\재무관리_수정1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Person_search.resources
+C:\Users\admin\Desktop\자구\재무관리_수정1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Customer_Add.resources
+C:\Users\admin\Desktop\자구\재무관리_수정1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Customer_search.resources
+C:\Users\admin\Desktop\자구\재무관리_수정1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\admin\Desktop\자구\재무관리_수정1\WindowsFormsApplication1\obj\Debug\WHMP.csproj.GenerateResource.Cache
+C:\Users\Higgs\Desktop\재무관리_수정2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Higgs\Desktop\재무관리_수정2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Higgs\Desktop\재무관리_수정2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Higgs\Desktop\재무관리_수정2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Higgs\Desktop\재무관리_수정2\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Higgs\Desktop\재무관리_수정2\WindowsFormsApplication1\obj\Debug\WHMP.csprojResolveAssemblyReference.cache
+C:\Users\Higgs\Desktop\재무관리_수정2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Higgs\Desktop\재무관리_수정2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Customer_Remove.resources
+C:\Users\Higgs\Desktop\재무관리_수정2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Product_Add.resources
+C:\Users\Higgs\Desktop\재무관리_수정2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Person_Add.resources
+C:\Users\Higgs\Desktop\재무관리_수정2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Higgs\Desktop\재무관리_수정2\WindowsFormsApplication1\obj\Debug\WHMP.Form0.resources
+C:\Users\Higgs\Desktop\재무관리_수정2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Person_search.resources
+C:\Users\Higgs\Desktop\재무관리_수정2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Customer_Add.resources
+C:\Users\Higgs\Desktop\재무관리_수정2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Customer_search.resources
+C:\Users\Higgs\Desktop\재무관리_수정2\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Higgs\Desktop\재무관리_수정2\WindowsFormsApplication1\obj\Debug\WHMP.csproj.GenerateResource.Cache
+C:\Users\Higgs\Desktop\재무관리_수정3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Higgs\Desktop\재무관리_수정3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Higgs\Desktop\재무관리_수정3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Higgs\Desktop\재무관리_수정3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Higgs\Desktop\재무관리_수정3\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Higgs\Desktop\재무관리_수정3\WindowsFormsApplication1\obj\Debug\WHMP.csprojResolveAssemblyReference.cache
+C:\Users\Higgs\Desktop\재무관리_수정3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Higgs\Desktop\재무관리_수정3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Customer_Remove.resources
+C:\Users\Higgs\Desktop\재무관리_수정3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Product_Add.resources
+C:\Users\Higgs\Desktop\재무관리_수정3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Person_Add.resources
+C:\Users\Higgs\Desktop\재무관리_수정3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Higgs\Desktop\재무관리_수정3\WindowsFormsApplication1\obj\Debug\WHMP.Form0.resources
+C:\Users\Higgs\Desktop\재무관리_수정3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Person_search.resources
+C:\Users\Higgs\Desktop\재무관리_수정3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Customer_Add.resources
+C:\Users\Higgs\Desktop\재무관리_수정3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Customer_search.resources
+C:\Users\Higgs\Desktop\재무관리_수정3\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Higgs\Desktop\재무관리_수정3\WindowsFormsApplication1\obj\Debug\WHMP.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\11,30[완]\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\admin\Desktop\11,30[완]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\admin\Desktop\11,30[완]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\admin\Desktop\11,30[완]\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\admin\Desktop\11,30[완]\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\admin\Desktop\11,30[완]\WindowsFormsApplication1\obj\Debug\WHMP.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\11,30[완]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\admin\Desktop\11,30[완]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Customer_Remove.resources
+C:\Users\admin\Desktop\11,30[완]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Product_Add.resources
+C:\Users\admin\Desktop\11,30[완]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Person_Add.resources
+C:\Users\admin\Desktop\11,30[완]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\admin\Desktop\11,30[완]\WindowsFormsApplication1\obj\Debug\WHMP.Form0.resources
+C:\Users\admin\Desktop\11,30[완]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Person_search.resources
+C:\Users\admin\Desktop\11,30[완]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Customer_Add.resources
+C:\Users\admin\Desktop\11,30[완]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Customer_search.resources
+C:\Users\admin\Desktop\11,30[완]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\admin\Desktop\11,30[완]\WindowsFormsApplication1\obj\Debug\WHMP.csproj.GenerateResource.Cache
+C:\Users\Awara\Desktop\11,30[완]\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Awara\Desktop\11,30[완]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Awara\Desktop\11,30[완]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Awara\Desktop\11,30[완]\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Awara\Desktop\11,30[완]\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Awara\Desktop\11,30[완]\WindowsFormsApplication1\obj\Debug\WHMP.csprojResolveAssemblyReference.cache
+C:\Users\Awara\Desktop\11,30[완]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Awara\Desktop\11,30[완]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Customer_Remove.resources
+C:\Users\Awara\Desktop\11,30[완]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Product_Add.resources
+C:\Users\Awara\Desktop\11,30[완]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Person_Add.resources
+C:\Users\Awara\Desktop\11,30[완]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Awara\Desktop\11,30[완]\WindowsFormsApplication1\obj\Debug\WHMP.Form0.resources
+C:\Users\Awara\Desktop\11,30[완]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Person_search.resources
+C:\Users\Awara\Desktop\11,30[완]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Customer_Add.resources
+C:\Users\Awara\Desktop\11,30[완]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Customer_search.resources
+C:\Users\Awara\Desktop\11,30[완]\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Awara\Desktop\11,30[완]\WindowsFormsApplication1\obj\Debug\WHMP.csproj.GenerateResource.Cache
+C:\Users\Awara\Desktop\검색버그,거래처추가x\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Awara\Desktop\검색버그,거래처추가x\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Awara\Desktop\검색버그,거래처추가x\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Awara\Desktop\검색버그,거래처추가x\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Awara\Desktop\검색버그,거래처추가x\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Awara\Desktop\검색버그,거래처추가x\WindowsFormsApplication1\obj\Debug\WHMP.csprojResolveAssemblyReference.cache
+C:\Users\Awara\Desktop\검색버그,거래처추가x\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Awara\Desktop\검색버그,거래처추가x\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Customer_Remove.resources
+C:\Users\Awara\Desktop\검색버그,거래처추가x\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Product_Add.resources
+C:\Users\Awara\Desktop\검색버그,거래처추가x\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Person_Add.resources
+C:\Users\Awara\Desktop\검색버그,거래처추가x\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Awara\Desktop\검색버그,거래처추가x\WindowsFormsApplication1\obj\Debug\WHMP.Form0.resources
+C:\Users\Awara\Desktop\검색버그,거래처추가x\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Person_search.resources
+C:\Users\Awara\Desktop\검색버그,거래처추가x\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Customer_Add.resources
+C:\Users\Awara\Desktop\검색버그,거래처추가x\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Customer_search.resources
+C:\Users\Awara\Desktop\검색버그,거래처추가x\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Awara\Desktop\검색버그,거래처추가x\WindowsFormsApplication1\obj\Debug\WHMP.csproj.GenerateResource.Cache
+C:\Users\Awara\Desktop\11\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Awara\Desktop\11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Awara\Desktop\11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Awara\Desktop\11\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Awara\Desktop\11\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Awara\Desktop\11\WindowsFormsApplication1\obj\Debug\WHMP.csprojResolveAssemblyReference.cache
+C:\Users\Awara\Desktop\11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Awara\Desktop\11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Customer_Remove.resources
+C:\Users\Awara\Desktop\11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Product_Add.resources
+C:\Users\Awara\Desktop\11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Person_Add.resources
+C:\Users\Awara\Desktop\11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Awara\Desktop\11\WindowsFormsApplication1\obj\Debug\WHMP.Form0.resources
+C:\Users\Awara\Desktop\11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Person_search.resources
+C:\Users\Awara\Desktop\11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Customer_Add.resources
+C:\Users\Awara\Desktop\11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Customer_search.resources
+C:\Users\Awara\Desktop\11\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Awara\Desktop\11\WindowsFormsApplication1\obj\Debug\WHMP.csproj.GenerateResource.Cache
+C:\Users\Higgs\Desktop\검색가능\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Higgs\Desktop\검색가능\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Higgs\Desktop\검색가능\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Higgs\Desktop\검색가능\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Higgs\Desktop\검색가능\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Higgs\Desktop\검색가능\WindowsFormsApplication1\obj\Debug\WHMP.csprojResolveAssemblyReference.cache
+C:\Users\Higgs\Desktop\검색가능\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Higgs\Desktop\검색가능\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Customer_Remove.resources
+C:\Users\Higgs\Desktop\검색가능\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Product_Add.resources
+C:\Users\Higgs\Desktop\검색가능\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Person_Add.resources
+C:\Users\Higgs\Desktop\검색가능\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form4.resources
+C:\Users\Higgs\Desktop\검색가능\WindowsFormsApplication1\obj\Debug\WHMP.Form0.resources
+C:\Users\Higgs\Desktop\검색가능\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Person_search.resources
+C:\Users\Higgs\Desktop\검색가능\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Customer_Add.resources
+C:\Users\Higgs\Desktop\검색가능\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Customer_search.resources
+C:\Users\Higgs\Desktop\검색가능\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Higgs\Desktop\검색가능\WindowsFormsApplication1\obj\Debug\WHMP.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\검색가능\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\admin\Desktop\검색가능\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\admin\Desktop\검색가능\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\admin\Desktop\검색가능\WindowsFormsApplication1\obj\Debug\WHMP.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\검색가능\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\admin\Desktop\검색가능\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Customer_Remove.resources
+C:\Users\admin\Desktop\검색가능\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Product_Add.resources
+C:\Users\admin\Desktop\검색가능\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Person_Add.resources
+C:\Users\admin\Desktop\검색가능\WindowsFormsApplication1\obj\Debug\WHMP.Form0.resources
+C:\Users\admin\Desktop\검색가능\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Customer_Add.resources
+C:\Users\admin\Desktop\검색가능\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Customer_search.resources
+C:\Users\admin\Desktop\검색가능\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\admin\Desktop\검색가능\WindowsFormsApplication1\obj\Debug\WHMP.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\검색가능\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\admin\Desktop\검색가능\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Higgs\Desktop\거래처 추가 수정, 트레픽 삭제\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Higgs\Desktop\거래처 추가 수정, 트레픽 삭제\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Higgs\Desktop\거래처 추가 수정, 트레픽 삭제\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Higgs\Desktop\거래처 추가 수정, 트레픽 삭제\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Higgs\Desktop\거래처 추가 수정, 트레픽 삭제\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Higgs\Desktop\거래처 추가 수정, 트레픽 삭제\WindowsFormsApplication1\obj\Debug\WHMP.csprojResolveAssemblyReference.cache
+C:\Users\Higgs\Desktop\거래처 추가 수정, 트레픽 삭제\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Higgs\Desktop\거래처 추가 수정, 트레픽 삭제\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Customer_Remove.resources
+C:\Users\Higgs\Desktop\거래처 추가 수정, 트레픽 삭제\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Product_Add.resources
+C:\Users\Higgs\Desktop\거래처 추가 수정, 트레픽 삭제\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Person_Add.resources
+C:\Users\Higgs\Desktop\거래처 추가 수정, 트레픽 삭제\WindowsFormsApplication1\obj\Debug\WHMP.Form0.resources
+C:\Users\Higgs\Desktop\거래처 추가 수정, 트레픽 삭제\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Customer_Add.resources
+C:\Users\Higgs\Desktop\거래처 추가 수정, 트레픽 삭제\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Customer_search.resources
+C:\Users\Higgs\Desktop\거래처 추가 수정, 트레픽 삭제\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Higgs\Desktop\거래처 추가 수정, 트레픽 삭제\WindowsFormsApplication1\obj\Debug\WHMP.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\161204 최종본\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\admin\Desktop\161204 최종본\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\admin\Desktop\161204 최종본\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\admin\Desktop\161204 최종본\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\admin\Desktop\161204 최종본\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\admin\Desktop\161204 최종본\WindowsFormsApplication1\obj\Debug\WHMP.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\161204 최종본\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\admin\Desktop\161204 최종본\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Customer_Remove.resources
+C:\Users\admin\Desktop\161204 최종본\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Product_Add.resources
+C:\Users\admin\Desktop\161204 최종본\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Person_Add.resources
+C:\Users\admin\Desktop\161204 최종본\WindowsFormsApplication1\obj\Debug\WHMP.Form0.resources
+C:\Users\admin\Desktop\161204 최종본\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Customer_Add.resources
+C:\Users\admin\Desktop\161204 최종본\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Customer_search.resources
+C:\Users\admin\Desktop\161204 최종본\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\admin\Desktop\161204 최종본\WindowsFormsApplication1\obj\Debug\WHMP.csproj.GenerateResource.Cache
+C:\Users\이다은\Documents\카카오톡 받은 파일\161204 최종본\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\이다은\Documents\카카오톡 받은 파일\161204 최종본\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\이다은\Documents\카카오톡 받은 파일\161204 최종본\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\이다은\Documents\카카오톡 받은 파일\161204 최종본\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\이다은\Documents\카카오톡 받은 파일\161204 최종본\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\이다은\Documents\카카오톡 받은 파일\161204 최종본\WindowsFormsApplication1\obj\Debug\WHMP.csprojResolveAssemblyReference.cache
+C:\Users\이다은\Documents\카카오톡 받은 파일\161204 최종본\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\이다은\Documents\카카오톡 받은 파일\161204 최종본\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Customer_Remove.resources
+C:\Users\이다은\Documents\카카오톡 받은 파일\161204 최종본\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Product_Add.resources
+C:\Users\이다은\Documents\카카오톡 받은 파일\161204 최종본\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Person_Add.resources
+C:\Users\이다은\Documents\카카오톡 받은 파일\161204 최종본\WindowsFormsApplication1\obj\Debug\WHMP.Form0.resources
+C:\Users\이다은\Documents\카카오톡 받은 파일\161204 최종본\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Customer_Add.resources
+C:\Users\이다은\Documents\카카오톡 받은 파일\161204 최종본\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Customer_search.resources
+C:\Users\이다은\Documents\카카오톡 받은 파일\161204 최종본\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\이다은\Documents\카카오톡 받은 파일\161204 최종본\WindowsFormsApplication1\obj\Debug\WHMP.csproj.GenerateResource.Cache
+C:\Users\Awara\Desktop\161204 최종본_(2)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Awara\Desktop\161204 최종본_(2)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Awara\Desktop\161204 최종본_(2)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Awara\Desktop\161204 최종본_(2)\WindowsFormsApplication1\obj\Debug\WHMP.csprojResolveAssemblyReference.cache
+C:\Users\Awara\Desktop\161204 최종본_(2)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Awara\Desktop\161204 최종본_(2)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Customer_Remove.resources
+C:\Users\Awara\Desktop\161204 최종본_(2)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Product_Add.resources
+C:\Users\Awara\Desktop\161204 최종본_(2)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Person_Add.resources
+C:\Users\Awara\Desktop\161204 최종본_(2)\WindowsFormsApplication1\obj\Debug\WHMP.Form0.resources
+C:\Users\Awara\Desktop\161204 최종본_(2)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Customer_Add.resources
+C:\Users\Awara\Desktop\161204 최종본_(2)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Customer_search.resources
+C:\Users\Awara\Desktop\161204 최종본_(2)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Awara\Desktop\161204 최종본_(2)\WindowsFormsApplication1\obj\Debug\WHMP.csproj.GenerateResource.Cache
+C:\Users\Awara\Desktop\161204 최종본_(2)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Awara\Desktop\161204 최종본_(2)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\LG\Desktop\161204 최종본_(2)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\LG\Desktop\161204 최종본_(2)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\LG\Desktop\161204 최종본_(2)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\LG\Desktop\161204 최종본_(2)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\LG\Desktop\161204 최종본_(2)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\LG\Desktop\161204 최종본_(2)\WindowsFormsApplication1\obj\Debug\WHMP.csprojResolveAssemblyReference.cache
+C:\Users\LG\Desktop\161204 최종본_(2)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\LG\Desktop\161204 최종본_(2)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Customer_Remove.resources
+C:\Users\LG\Desktop\161204 최종본_(2)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Product_Add.resources
+C:\Users\LG\Desktop\161204 최종본_(2)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Person_Add.resources
+C:\Users\LG\Desktop\161204 최종본_(2)\WindowsFormsApplication1\obj\Debug\WHMP.Form0.resources
+C:\Users\LG\Desktop\161204 최종본_(2)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Customer_Add.resources
+C:\Users\LG\Desktop\161204 최종본_(2)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Customer_search.resources
+C:\Users\LG\Desktop\161204 최종본_(2)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\LG\Desktop\161204 최종본_(2)\WindowsFormsApplication1\obj\Debug\WHMP.csproj.GenerateResource.Cache
+C:\Users\Limelee\Documents\카카오톡 받은 파일\161204 최종본_(3)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Limelee\Documents\카카오톡 받은 파일\161204 최종본_(3)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Limelee\Documents\카카오톡 받은 파일\161204 최종본_(3)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Limelee\Documents\카카오톡 받은 파일\161204 최종본_(3)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Limelee\Documents\카카오톡 받은 파일\161204 최종본_(3)\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Limelee\Documents\카카오톡 받은 파일\161204 최종본_(3)\WindowsFormsApplication1\obj\Debug\WHMP.csprojResolveAssemblyReference.cache
+C:\Users\Limelee\Documents\카카오톡 받은 파일\161204 최종본_(3)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Limelee\Documents\카카오톡 받은 파일\161204 최종본_(3)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Customer_Remove.resources
+C:\Users\Limelee\Documents\카카오톡 받은 파일\161204 최종본_(3)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Product_Add.resources
+C:\Users\Limelee\Documents\카카오톡 받은 파일\161204 최종본_(3)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Person_Add.resources
+C:\Users\Limelee\Documents\카카오톡 받은 파일\161204 최종본_(3)\WindowsFormsApplication1\obj\Debug\WHMP.Form0.resources
+C:\Users\Limelee\Documents\카카오톡 받은 파일\161204 최종본_(3)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Customer_Add.resources
+C:\Users\Limelee\Documents\카카오톡 받은 파일\161204 최종본_(3)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Customer_search.resources
+C:\Users\Limelee\Documents\카카오톡 받은 파일\161204 최종본_(3)\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Limelee\Documents\카카오톡 받은 파일\161204 최종본_(3)\WindowsFormsApplication1\obj\Debug\WHMP.csproj.GenerateResource.Cache
